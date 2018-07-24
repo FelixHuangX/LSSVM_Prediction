@@ -18,3 +18,9 @@ matlab,LSSVM toolbox,EMD toolbox
 
 # Result
 ![image](https://github.com/FelixHuangX/LSSVM_Prediction/blob/master/ecg.jpg)
+
+We focus on the green line ,the blue is raw data after PCA,and this orange line is single step prediction,but the green line is multi step prediction.
+From this result ,wo find that LSSVM is good at capture the feature of ecg data.
+
+# Supplementary Instruction
+This LSSVM model using PSR(Phase Space Reconstruction) algorithm to choose best embedding dimension of input,and PSO(Particle Swarm Optimization) algorithm to give best parameters of LSSVM.
