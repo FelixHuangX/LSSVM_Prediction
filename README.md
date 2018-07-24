@@ -17,4 +17,4 @@ matlab,LSSVM toolbox,EMD toolbox
 4.Choosing the ECG dataset to run the code
 
 # Result
-https://github.com/FelixHuangX/LSSVM_Prediction/blob/master/ecg.jpg
+![image](https://github.com/FelixHuangX/LSSVM_Prediction/blob/master/ecg.jpg)
