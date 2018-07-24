@@ -12,6 +12,9 @@ matlab,LSSVM toolbox,EMD toolbox
 
 2.Open pack_emd\package_emd,run: install_emd.m
 
-2.Open this code: test_psr_pso.m
+3.Open this code: test_psr_pso.m
 
-3.Choosing the bearing fault dataset;
+4.Choosing the ECG dataset to run the code
+
+# Result
+
